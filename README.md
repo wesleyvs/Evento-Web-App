@@ -3,7 +3,7 @@
 Aplicação web para gerenciar eventos.  
 Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring e MySQL.
 
-### Tecnologias utilizadas:  
+## Tecnologias utilizadas:  
 - Java EE 8u
 - MySQL 8.0
 - Spring 2.2.0

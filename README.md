@@ -3,7 +3,11 @@
 Aplicação web para gerenciar eventos.  
 Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring e MySQL.
 
-## Tecnologias utilizadas:  
+## Index:
+## Dependências utilizadas no pom.xml  
+## Templates utilizados através do thymeleaf  
+  
+## Tecnologias utilizadas  
 - Java EE 8u
 - MySQL 8.0
 - Spring 2.2.0
@@ -12,12 +16,12 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 - H2 Database
 - Thymeleaf
   
-## Demonstração de inserção do formulário ao banco de dados:
+## Demonstração de inserção do formulário ao banco de dados
 
 ![](Screenshots/ScreenShot_Web.png)  
 ![](Screenshots/Screenshot_MySQL_Example.png)  
   
-## Dependências utilizadas no pom.xml:
+## Dependências utilizadas no pom.xml
 ```
 <dependencies>
            <dependency>
@@ -62,7 +66,7 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 </dependencies>
 ```
   
-## Templates utilizados através do thymeleaf:  
+## Templates utilizados através do thymeleaf  
 ### Index:
 ```
 <html>

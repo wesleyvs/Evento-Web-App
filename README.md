@@ -62,7 +62,7 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 </dependencies>
 ```
   
-##Templates utilizados através do thymeleaf: 
+##Templates utilizados através do thymeleaf:  
 ###Index:
 ```
 <html>

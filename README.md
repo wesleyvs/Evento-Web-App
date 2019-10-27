@@ -9,3 +9,6 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 - Spring 2.2.0
 - Apache Maven 3.6.2
 - IDE Eclipse JEE 2019/09
+- H2 Database
+- Thymeleaf
+

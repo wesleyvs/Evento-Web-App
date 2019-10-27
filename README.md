@@ -12,15 +12,11 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 - H2 Database
 - Thymeleaf
   
-## Dependencias utilizadas no Maven: 
-
-
 ## Demonstração de inserção do formulário ao banco de dados:
 
 ![](Screenshots/ScreenShot_Web.png)  
 ![](Screenshots/Screenshot_MySQL_Example.png)  
-
-
+  
 ## Dependencias utilizadas no pom.xml:
 ```
 <dependencies>

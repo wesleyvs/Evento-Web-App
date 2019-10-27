@@ -2,10 +2,6 @@
 
 Aplicação web para gerenciar eventos.  
 Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring e MySQL.
-
-## Index:
-- [Dependências utilizadas no pom.xml](## Dependências utilizadas no pom.xml)
-- [Templates utilizados através do thymeleaf](## Templates utilizados através do thymeleaf)  
   
 ## Tecnologias utilizadas  
 - Java EE 8u

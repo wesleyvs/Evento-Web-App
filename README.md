@@ -62,8 +62,8 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 </dependencies>
 ```
   
-##Templates utilizados através do thymeleaf:  
-###Index:
+## Templates utilizados através do thymeleaf:  
+### Index:
 ```
 <html>
 	<body>
@@ -73,7 +73,7 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 </html>
 ```
   
-###Formulário para cadastro de eventos:
+### Formulário para cadastro de eventos:
 ```
 <!DOCTYPE html>		
 <html xmlns:th="http://thymeleaf.org"

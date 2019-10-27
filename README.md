@@ -17,7 +17,7 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 ![](Screenshots/ScreenShot_Web.png)  
 ![](Screenshots/Screenshot_MySQL_Example.png)  
   
-## Dependencias utilizadas no pom.xml:
+## Dependências utilizadas no pom.xml:
 ```
 <dependencies>
            <dependency>
@@ -60,4 +60,38 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
   		 <artifactId>h2</artifactId>
   		 </dependency>
 </dependencies>
+```
+  
+##Templates utilizados através do thymeleaf: 
+###Index:
+```
+<html>
+	<body>
+		<h3>Olá mundo.</h3>
+		<h3>Teste Spring.</h3>
+	</body>
+</html>
+```
+  
+###Formulário para cadastro de eventos:
+```
+<!DOCTYPE html>		
+<html xmlns:th="http://thymeleaf.org"
+		xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">	
+	<head>
+		<title>EventosApp</title>
+	</head>
+	
+	<body>
+		<h1>Cadastro de Eventos:</h1>
+		<form method="post">
+		Nome: <input type="text" value="" name="nome"/>	
+		Local: <input type="text" value="" name="local"/>
+		Data: <input type="date" value="" name="data"/>
+		Horario: <input type="text" value="" name="horario"/>
+		
+		<button type="submit">Salvar</button>
+		</form>
+	</body>
+</html>
 ```

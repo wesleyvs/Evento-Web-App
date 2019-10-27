@@ -6,7 +6,8 @@ Projeto realizado com a finalidade de aperfeiçoar habilidades com Java, Spring 
 ## Tecnologias utilizadas  
 - Java EE 8u
 - MySQL 8.0
-- Spring 2.2.0
+- Spring boot 2.2.0
+-- Spring MVC
 - Apache Maven 3.6.2
 - IDE Eclipse JEE 2019/09
 - H2 Database

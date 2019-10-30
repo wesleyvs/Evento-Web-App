@@ -1,6 +1,6 @@
 # Evento App
 
-Aplicação web para gerenciar eventos.  
+Aplicação web para gerenciar eventos (cadastro, leitura, alteração e remoção).  
 Repositório criado com a finalidade de aperfeiçoar habilidades com Java, Spring e MySQL.
   
 ## Tecnologias utilizadas  
